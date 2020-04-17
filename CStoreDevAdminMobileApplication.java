@@ -25,5 +25,7 @@ public class CStoreDevAdminMobileApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CStoreDevAdminMobileApplication.class, args);
 		LOGGER.info("Spring Boot started successfully..");
+		
+		//change for pool
 	}
 }
